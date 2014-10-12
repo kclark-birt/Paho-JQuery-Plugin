@@ -12,6 +12,7 @@ Usage
 ==================
 This allows you to subscribe and recieve message from an MQTT broker over websockets.  Useage is as follows:
 
+```HTML
 <script type="text/javascript" src="./js/jquery.mqttws31.js"></script>
 
 <script type="text/javascript">
@@ -29,6 +30,7 @@ This allows you to subscribe and recieve message from an MQTT broker over websoc
 </script>
 
 <div id="myID"></div>
+```
 
 TODO:
 ==================
